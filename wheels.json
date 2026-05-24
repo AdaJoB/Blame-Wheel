@@ -1,0 +1,42 @@
+{
+    "wheels": [
+        {
+            "wheel_name": "Default",
+            "items": [
+                {
+                    "item_name": "Item 1",
+                    "weight": 0.25
+                },
+                {
+                    "item_name": "Item 2",
+                    "weight": 0.25
+                },
+                {
+                    "item_name": "Item 3",
+                    "weight": 0.25
+                },
+                {
+                    "item_name": "Item 4",
+                    "weight": 0.25
+                }
+            ]
+        },
+        {
+            "wheel_name": "Default2",
+            "items": [
+                {
+                    "item_name": "Item 1",
+                    "weight": 0.25
+                },
+                {
+                    "item_name": "Item 2",
+                    "weight": 0.25
+                },
+                {
+                    "item_name": "Item 3",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}
